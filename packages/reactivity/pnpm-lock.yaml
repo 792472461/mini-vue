@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@mini-vue/shared': file:../shared
+
+dependencies:
+  '@mini-vue/shared': file:../shared
+
+packages:
+
+  file:../shared:
+    resolution: {directory: ../shared, type: directory}
+    name: '@mini-vue/shared'
+    version: 1.0.0
+    dev: false

@@ -1,0 +1,17 @@
+{
+  "name": "@mini-vue/runtime-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "buildOptions": {
+    "name": "MiniVueRuntimeCore",
+    "formats": [
+      "esm-bundler",
+      "esm-browser",
+      "cjs",
+      "global"
+    ]
+  },
+  "author": "fengshuai",
+  "license": "ISC"
+}

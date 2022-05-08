@@ -1,0 +1,19 @@
+{
+  "name": "@mini-vue/reactivity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "fengshuai",
+  "license": "ISC",
+  "buildOptions": {
+    "name": "MiniVueReactivity",
+    "formats": [
+      "esm-bundler",
+      "esm-browser",
+      "cjs",
+      "global"
+    ]
+  },
+  "dependencies": {}
+}
